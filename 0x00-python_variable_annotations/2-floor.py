@@ -2,6 +2,6 @@
 """A module that implements floor() function
 """
 
-def floor(n: float) -> float:
+def floor(a: float) -> int:
      """Calculates the floor of a float"""
-    return int(n)
+    return int(a)
